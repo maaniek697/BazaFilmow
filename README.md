@@ -24,7 +24,7 @@ Nowoczesna aplikacja okienkowa (Desktop App) napisana w języku C# przy użyciu 
    ```bash
    git clone [https://github.com/TwojaNazwaUzytkownika/BazaFilmow.git](https://github.com/TwojaNazwaUzytkownika/BazaFilmow.git)
 
-   Otwórz plik rozwiązania (.sln) w IDE (np. JetBrains Rider lub Visual Studio).
+Otwórz plik rozwiązania (.sln) w IDE (np. JetBrains Rider lub Visual Studio).
 
 Ważne: Aby wyszukiwanie działało, potrzebujesz darmowego klucza API ze strony OMDB API.
 
